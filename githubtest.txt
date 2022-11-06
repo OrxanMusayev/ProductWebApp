@@ -4,6 +4,10 @@ Version-2 (Updated)
 Version-3
 
 Version -5
+<<<<<<< HEAD
 Version-6
 Version-7
 Version-8 update
+=======
+Version-6
+>>>>>>> ce3e4b7 (6-ci commit)
